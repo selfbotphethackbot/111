@@ -5,31 +5,31 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = LINETCR.LINE()
-cl.login(token="El0zSEZjsGkmQ8U6vkL2.XXpKnsQ6turNLW649N8jiG.OnqYe981Mf+5UKrZqMkn46WHhgKWhzh3aNRKqRRJq/o=")
+cl.login(token="")
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="El8yaUVnnCGAZR7f04N6.q15T8aKEI+RbvTfGWdnrvG.XIl66o+Qy7ppvz5dpoK50M+vTiPT/pestRsuN7YW+C0=")
+ki.login(token="")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="ElZjXozyqrNBSxPIDSd5.UyvtKcGhC5+fyhpowMpR1q.lcBipkqbOfUwghWAIhLW0KX71MKkIeNCJdBAA70kb+4=")
+kk.login(token="")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="ElCFkbZ8bJLI1OepLs97.D7/d94XdMjFkAX3iq9TDnW.y8fBg1EKZvbtI+pRxHEuOoqCKJNhkEta06DnGMSoXBI=")
+kc.login(token="")
 kc.loginResult()
 
 kd = LINETCR.LINE()
-kd.login(token="ElFboq4YotCxrc6KchI4.zZgpJFVgnTXsAoBGot7R5a.m73ipn9Oete00vGQKXQXmLxJFVa+lfWU6UZUGIu7pu8=")
+kd.login(token="")
 kd.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(token="ElAShEWQBs0hqKopBVW1.4fuVTJqVSQWyBCcCKr7WSq.4p9tEulR26lTSlMpPnvZoKNJhREMQ37c7ZmldtxQhu4=")
+ke.login(token="")
 ke.loginResult()
 
 kf = LINETCR.LINE()
-kf.login(token="El7wxOXITAP5eD5O5yYc.e3soR9LoLnjgYyOSUmYKNa.wG/8Wsy8XaqTmO3xXYtAIoYdrXGWxSdaxkW1xIA3rnc=")
+kf.login(token="")
 kf.loginResult()
 
 print "login success"
